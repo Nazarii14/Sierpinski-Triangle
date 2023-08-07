@@ -1,1 +1,1 @@
-# Sapinski-Triangle
+# Sierpinski-Triangle
